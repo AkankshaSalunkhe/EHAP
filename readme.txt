@@ -18,3 +18,6 @@ Admin Credential
 Username: admin
 Password: Test@123
 
+Driver Credential
+Username: driver
+Password: Test@123
